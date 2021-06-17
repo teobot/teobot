@@ -9,7 +9,7 @@
 
 <p align="center">
 	<strong>
-		<a href="https://teobot.github.io/">Website</a>
+		<a href="https://theoclapperton-portfolio.netlify.app/">Website</a>
 		•
 		<a href="www.linkedin.com/in/theo-clapperton-6aa916121">Linkedin</a>
 	</strong>
