@@ -11,7 +11,7 @@
 	<strong>
 		<a href="https://theoclapperton-portfolio.netlify.app/">Website</a>
 		•
-		<a href="www.linkedin.com/in/theo-clapperton-6aa916121">Linkedin</a>
+		<a href="https://www.linkedin.com/in/theoclapperton/">Linkedin</a>
 	</strong>
 </p>
 
