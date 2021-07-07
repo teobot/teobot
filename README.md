@@ -28,7 +28,7 @@
 
 <hr/>
 
-<p align="center">🔭 I’m currently working on: <b>University studies and lots of personal projects 😄</b></p>
+<p align="center">🔭 I’m currently working on: <b>Lots of personal projects 😄</b></p>
 <p align="center">🌱 I’m currently learning: <b>Node Express 🌍</b></p>
 <p align="center">💬 Ask me about: <b>What I'm making next... 🥰</b></p>
 <p align="center">⚡ Fun fact: <b>I'm a Ex-international waterpolo player 🤽</b></p>
