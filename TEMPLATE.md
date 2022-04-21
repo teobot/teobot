@@ -1,25 +1,64 @@
-Account age: **{{ ACCOUNT_AGE }}** years
 
-Pushed **{{ COMMITS }}** commits
+<h1 align="center">
+	✨ You've reached me ✨
+</h1>
 
-Opened **{{ ISSUES }}** issues
+<h3 align="center">
+    Full Stack Developer, Creator and Waterpolo Coach & Player
+</h3>
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
+<p align="center">
+	<strong>
+		<a href="https://theoclapperton-portfolio.netlify.app/">Website</a>
+		•
+		<a href="https://www.linkedin.com/in/theoclapperton/">Linkedin</a>
+	</strong>
+</p>
 
-Received **{{ STARS }}** stars
+<p align="center">
+	<img
+		alt="The Lounge"
+		src="https://github-readme-stats.vercel.app/api?username=teobot&border_radius=25&show_icons=true">
+</p>
+<p align="center">
+	<img
+		alt="The Lounge"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=teobot&border_radius=25">
+</p>
 
-Own **{{ REPOSITORIES }}** repositories
+<hr/>
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+<p align="center">
+  Account age: **{{ ACCOUNT_AGE }}** years
 
-Top 8 most used languages across your repositories:
+  Pushed **{{ COMMITS }}** commits
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+  Opened **{{ ISSUES }}** issues
 
-Top 4 most used languages across your repositories:
+  Submitted **{{ PULL_REQUESTS }}** pull requests
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+  Received **{{ STARS }}** stars
+
+  Own **{{ REPOSITORIES }}** repositories
+
+  Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+
+  Top 8 most used languages across your repositories:
+
+  {{ LANGUAGE_TEMPLATE_START }}
+  ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+  {{ LANGUAGE_TEMPLATE_END }}
+
+  Top 4 most used languages across your repositories:
+
+  {{ LANGUAGE_TEMPLATE_START:max=4 }}
+  ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+  {{ LANGUAGE_TEMPLATE_END }}
+</p>
+
+<p align="center">🔭 I’m currently working on: <b>Lots of personal projects 😄</b></p>
+<p align="center">🌐 Wanna see my portfolio?: <b><a href="https://theoclapperton-portfolio.netlify.app/">My Portfolio</a> 🔥</b></p>
+<p align="center">🌱 I’m currently learning: <b>Typescript 🌍</b></p>
+<p align="center">💬 Ask me about: <b>What I'm making next... 🥰</b></p>
+<p align="center">⚡ Fun fact: <b>I'm a Ex-international waterpolo player 🤽</b></p>
+<p align="center">📫 How to reach me: <b><a href="mailto:theoclapperton@outlook.com">theoclapperton@outlook.com</a> ✉️</b></p>
