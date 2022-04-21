@@ -35,9 +35,8 @@
 <p align="center">⭐ Received <b>{{ STARS }}</b> stars 🌟</p>
 <p align="center">🖥️ Created and own <b>{{ REPOSITORIES }}</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories 🐚</p>
-<p align="center">🔭 I’m currently working on: <b>Lots of personal projects 😄</b></p>
-<p align="center">🌐 Wanna see my portfolio?: <b><a href="https://theoclapperton-portfolio.netlify.app/">My Portfolio</a> 🔥</b></p>
-<p align="center">🌱 I’m currently learning: <b>Typescript 🌍</b></p>
-<p align="center">💬 Ask me about: <b>What I'm making next... 🥰</b></p>
-<p align="center">⚡ Fun fact: <b>I'm a Ex-international waterpolo player 🤽</b></p>
-<p align="center">📫 How to reach me: <b><a href="mailto:theoclapperton@outlook.com">theoclapperton@outlook.com</a> ✉️</b></p>
+<p align="center">🔭 I’m currently working on <b><a href="https://nextjs.org/">Next.js</a> 😄</b></p>
+<p align="center">🌐 Wanna see my portfolio? <b><a href="https://theoclapperton-portfolio.netlify.app/">My Portfolio</a> 🔥</b></p>
+<p align="center">🌱 I’m currently learning <b>Next.js 🌍</b></p>
+<p align="center">⚡ Fun fact <b>I'm a Ex-international waterpolo player 🤽</b></p>
+<p align="center">📫 Reach me at <b><a href="mailto:theoclapperton@outlook.com">theoclapperton@outlook.com</a> ✉️</b></p>
