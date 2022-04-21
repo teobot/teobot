@@ -1,12 +1,10 @@
 Account age: **5** years
 
-Pushed **1996** commits
+Pushed **1997** commits
 
 Opened **121** issues
 
 Submitted **56** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
 
 Received **2** stars
 
