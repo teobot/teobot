@@ -28,20 +28,13 @@
 
 <hr/>
 
-<p align="center">Account age: <b>{{ ACCOUNT_AGE }}</b> years</p>
-<p align="center">Pushed <b>{{ COMMITS }}</b> commits</p>
-<p align="center">Opened <b>{{ ISSUES }}</b> issues</p>
-<p align="center">Submitted <b>{{ PULL_REQUESTS }}</b> pull requests</p>
-<p align="center">Received <b>{{ STARS }}</b> stars</p>
-<p align="center">Own <b>{{ REPOSITORIES }}</b> repositories</p>
-<p align="center">Contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories</p>
-<p align="center">Top 8 most used languages across your repositories:</p>
-<p align="center">
-	{{ LANGUAGE_TEMPLATE_START }}
-		<img alt="{{LANGUAGE_NAME}}" src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25">
-</p>
-	{{ LANGUAGE_TEMPLATE_END }}
-</p>
+<p align="center">⌛ I've been using GitHub for <b>{{ ACCOUNT_AGE }}</b> years ⏳</p>
+<p align="center">🌌 Pushed more than <b>{{ COMMITS }}</b> commits 🌠</p>
+<p align="center">📖 Opened over <b>{{ ISSUES }}</b> issues ❓</p>
+<p align="center">⚓ Submitted <b>{{ PULL_REQUESTS }}</b> pull requests 📧</p>
+<p align="center">⭐ Received <b>{{ STARS }}</b> stars 🌟</p>
+<p align="center">🖥️ Created and own <b>{{ REPOSITORIES }}</b> repositories 💻</p>
+<p align="center">🏇 Contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories 🐚</p>
 <p align="center">🔭 I’m currently working on: <b>Lots of personal projects 😄</b></p>
 <p align="center">🌐 Wanna see my portfolio?: <b><a href="https://theoclapperton-portfolio.netlify.app/">My Portfolio</a> 🔥</b></p>
 <p align="center">🌱 I’m currently learning: <b>Typescript 🌍</b></p>
