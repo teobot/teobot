@@ -15,21 +15,10 @@
 	</strong>
 </p>
 
-<p align="center">
-	<img
-		alt="The Lounge"
-		src="https://github-readme-stats.vercel.app/api?username=teobot&border_radius=25&show_icons=true">
-</p>
-<p align="center">
-	<img
-		alt="The Lounge"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=teobot&border_radius=25">
-</p>
-
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>5</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2024</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2025</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>121</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>57</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>2</b> stars 🌟</p>
