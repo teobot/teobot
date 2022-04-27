@@ -15,17 +15,6 @@
 	</strong>
 </p>
 
-<p align="center">
-	<img
-		alt="The Lounge"
-		src="https://github-readme-stats.vercel.app/api?username=teobot&border_radius=25&show_icons=true">
-</p>
-<p align="center">
-	<img
-		alt="The Lounge"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=teobot&border_radius=25">
-</p>
-
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>{{ ACCOUNT_AGE }}</b> years ⏳</p>
