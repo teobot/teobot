@@ -18,10 +18,10 @@
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>5</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2083</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2098</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>121</b> issues ❓</p>
-<p align="center">⚓ Submitted <b>65</b> pull requests 📧</p>
-<p align="center">⭐ Received <b>2</b> stars 🌟</p>
+<p align="center">⚓ Submitted <b>67</b> pull requests 📧</p>
+<p align="center">⭐ Received <b>3</b> stars 🌟</p>
 <p align="center">🖥️ Created and own <b>71</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>3</b> public repositories 🐚</p>
 <p align="center">🔭 I’m currently working on <b><a href="https://nextjs.org/">Next.js</a> 😄</b></p>
