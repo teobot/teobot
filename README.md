@@ -9,7 +9,7 @@
 
 <p align="center">
 	<strong>
-		<a href="https://theoclapperton-portfolio.netlify.app/">Website</a>
+		<a href="https://www.theoclapperton.co.uk/">Website</a>
 		•
 		<a href="https://www.linkedin.com/in/theoclapperton/">Linkedin</a>
 	</strong>
@@ -18,7 +18,7 @@
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>5</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2188</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2189</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>133</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>75</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>3</b> stars 🌟</p>
