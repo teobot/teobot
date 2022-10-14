@@ -22,7 +22,7 @@
 <p align="center">📖 Opened over <b>146</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>103</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>4</b> stars 🌟</p>
-<p align="center">🖥️ Created and own <b>80</b> repositories 💻</p>
+<p align="center">🖥️ Created and own <b>81</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>2</b> public repositories 🐚</p>
 <p align="center">🔭 I’m currently working on <b>Private commission for a waterpolo club 😄</b></p>
 <p align="center">🌐 Wanna see my portfolio? <b><a href="https://www.theoclapperton.co.uk/">My Portfolio</a> 🔥</b></p>
