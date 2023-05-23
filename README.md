@@ -18,9 +18,9 @@
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>6</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2806</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2817</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>152</b> issues ❓</p>
-<p align="center">⚓ Submitted <b>175</b> pull requests 📧</p>
+<p align="center">⚓ Submitted <b>177</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>5</b> stars 🌟</p>
 <p align="center">🖥️ Created and own <b>84</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>2</b> public repositories 🐚</p>
