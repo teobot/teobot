@@ -19,7 +19,7 @@
 
 <p align="center">⌛ I've been using GitHub for <b>7</b> years ⏳</p>
 <p align="center">🌌 Pushed more than <b>3242</b> commits 🌠</p>
-<p align="center">📖 Opened over <b>163</b> issues ❓</p>
+<p align="center">📖 Opened over <b>167</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>235</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>3</b> stars 🌟</p>
 <p align="center">🖥️ Created and own <b>91</b> repositories 💻</p>
