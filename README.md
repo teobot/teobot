@@ -23,7 +23,7 @@
 <p align="center">⚓ Submitted <b>105</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>3</b> stars 🌟</p>
 <p align="center">🖥️ Created and own <b>95</b> repositories 💻</p>
-<p align="center">🏇 Contributed to <b>1</b> public repositories 🐚</p>
+<p align="center">🏇 Contributed to <b>0</b> public repositories 🐚</p>
 <p align="center">🔭 I’m currently working on <b>Private commission for a waterpolo club 😄</b></p>
 <p align="center">🌐 Wanna see my portfolio? <b><a href="https://www.theoclapperton.co.uk/">My Portfolio</a> 🔥</b></p>
 <p align="center">🌱 I’m currently learning <b>Next.js 🌍</b></p>
