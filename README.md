@@ -17,7 +17,7 @@
 
 <hr/>
 
-<p align="center">⌛ I've been using GitHub for <b>7</b> years ⏳</p>
+<p align="center">⌛ I've been using GitHub for <b>8</b> years ⏳</p>
 <p align="center">🌌 Pushed more than <b>2583</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>165</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>115</b> pull requests 📧</p>
