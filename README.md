@@ -18,11 +18,11 @@
 <hr/>
 
 <p align="center">⌛ I've been using GitHub for <b>8</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2599</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2600</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>165</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>116</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>4</b> stars 🌟</p>
-<p align="center">🖥️ Created and own <b>103</b> repositories 💻</p>
+<p align="center">🖥️ Created and own <b>104</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>0</b> public repositories 🐚</p>
 <p align="center">🔭 I’m currently working on <b>Private commission for a waterpolo club 😄</b></p>
 <p align="center">🌐 Wanna see my portfolio? <b><a href="https://www.theoclapperton.co.uk/">My Portfolio</a> 🔥</b></p>
