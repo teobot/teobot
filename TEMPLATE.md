@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    Principal Software Engineer | Tech Lead, Creator and Players Representative + Web Developer for Manchester Sharks water polo club
+    Frontend Technical Lead / Engineering Manager @ Pharmacy2U, Creator and Freelance Software Developer supporting several sport related clubs + Web Developer for Manchester Sharks water polo club
 </h3>
 
 <p align="center">
