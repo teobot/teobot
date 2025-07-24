@@ -9,7 +9,7 @@
 <p align="center">📖 Opened over <b>166</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>122</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>4</b> stars 🌟</p>
-<p align="center">🖥️ Created and own <b>110</b> repositories 💻</p>
+<p align="center">🖥️ Created and own <b>111</b> repositories 💻</p>
 <p align="center">🏇 Contributed to <b>1</b> public repositories 🐚</p>
 <p align="center">🌐 Wanna see my portfolio? <b><a href="https://www.theoclapperton.co.uk/">My Portfolio</a> 🔥</b></p>
 <p align="center">⚡ Fun fact <b>I'm a Ex-international waterpolo player 🤽</b></p>
