@@ -5,7 +5,7 @@
 <p align="center"><strong><a href="https://www.theoclapperton.co.uk/">Website</a> • <a href="https://www.linkedin.com/in/theoclapperton/">Linkedin</a></strong></p>
 
 <p align="center">⌛ I've been using GitHub for <b>8</b> years ⏳</p>
-<p align="center">🌌 Pushed more than <b>2695</b> commits 🌠</p>
+<p align="center">🌌 Pushed more than <b>2699</b> commits 🌠</p>
 <p align="center">📖 Opened over <b>166</b> issues ❓</p>
 <p align="center">⚓ Submitted <b>122</b> pull requests 📧</p>
 <p align="center">⭐ Received <b>4</b> stars 🌟</p>
